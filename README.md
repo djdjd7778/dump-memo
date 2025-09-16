@@ -153,5 +153,4 @@
 
 ---
 
-さらに詳しくサンプルコード付きで防御処理を実装したい場合や、特定のツールの対策に興味があるなら、それに合わせて案内します。
-必要なテーマがあれば教えてください。
+[frida il2cpp](https://hackparking.github.io/ggrksbaka/redirect.html?q=frida%20il2cpp)
